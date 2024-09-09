@@ -1,0 +1,27 @@
+<head>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<header>JULIAFLIX</header>
+
+<h1>MELHORES MÚSICAS JULIAFLIX</h1>
+<p>#músicas</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cWoZ-SmbPiI?si=zHx8r6OHbiJ3mpVm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+
+
+
+body{
+
+    color:rgb(209, 27, 139);
+    background-color:rgb(17, 1, 10);
+    padding: 0px;
+}
+
+header{ 
+    border-bottom : solid 2px rgb(228, 13, 145);
+    padding: 20px;
+    font-size: 32px;
+}
+
